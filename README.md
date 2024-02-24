@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 <!--
-<b>Computer and Communication Engineering</b> 
+Computer and Communication Engineering
 -->
