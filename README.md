@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-Computer and Communication Engineering
+Computer and Communication Engineer
 
